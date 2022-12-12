@@ -1,0 +1,17 @@
+Algoritmo prendas
+	escribir"cual es el costo de los tennis?"
+	leer tenis
+	escribir "cual es el costo de la  playera deportiva"
+	leer playera
+	escribir " cual es el costo de un short?"
+	leer short
+	escribir "cual es el costo de dos_pares de calcetines?"
+	leer calcetines 
+	escribir "cual es el costo de la gorra?"
+	leer gorra
+	iva = subtotal * 0.16
+	total = subtotal + iva 
+	escribir "el subtotal es" subtotal
+	escribir " el iva es " iva
+	escribir "el total es" total 
+FinAlgoritmo
